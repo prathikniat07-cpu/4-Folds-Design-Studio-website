@@ -150,7 +150,7 @@ npm run lint      # TypeScript validation
 
 ## 👨‍💻 Developed By
 
-**Sujeeth Sai**
+**PRATHIK PATIL**
 
 GitHub: https://github.com/Sujeeth-Sai
 
