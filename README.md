@@ -152,7 +152,7 @@ npm run lint      # TypeScript validation
 
 **PRATHIK PATIL**
 
-GitHub: https://github.com/Sujeeth-Sai
+GitHub: https://github.com/prathikniat07-cpu
 
 ---
 
